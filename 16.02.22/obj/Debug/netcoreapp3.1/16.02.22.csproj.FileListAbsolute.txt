@@ -1,0 +1,13 @@
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/bin/Debug/netcoreapp3.1/16.02.22.deps.json
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/bin/Debug/netcoreapp3.1/16.02.22.runtimeconfig.json
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/bin/Debug/netcoreapp3.1/16.02.22.runtimeconfig.dev.json
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/bin/Debug/netcoreapp3.1/16.02.22.dll
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/bin/Debug/netcoreapp3.1/16.02.22.pdb
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/obj/Debug/netcoreapp3.1/16.02.22.csproj.AssemblyReference.cache
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/obj/Debug/netcoreapp3.1/16.02.22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/obj/Debug/netcoreapp3.1/16.02.22.AssemblyInfoInputs.cache
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/obj/Debug/netcoreapp3.1/16.02.22.AssemblyInfo.cs
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/obj/Debug/netcoreapp3.1/16.02.22.csproj.CoreCompileInputs.cache
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/obj/Debug/netcoreapp3.1/16.02.22.dll
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/obj/Debug/netcoreapp3.1/16.02.22.pdb
+/Users/gunelhesenova/Projects/16.02.22/16.02.22/obj/Debug/netcoreapp3.1/16.02.22.genruntimeconfig.cache
